@@ -6,8 +6,8 @@ use DollarQuotation\HgApi;
 
 $hg = new HgApi(HG_API_KEY);
 $dolar = $hg->dollarQuotation();
-
 ?>
+
 <!doctype html>
 <html lang="PT-br">
   <head>
